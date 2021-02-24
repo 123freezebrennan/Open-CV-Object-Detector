@@ -1,6 +1,5 @@
 import cv2
 thres = 0.5
-#img = cv2.imread('lena.PNG')
 cap = cv2.VideoCapture(0)
 cap.set(3,1280)
 cap.set(4,720)
